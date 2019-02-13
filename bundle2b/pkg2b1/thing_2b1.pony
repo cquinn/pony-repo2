@@ -1,4 +1,4 @@
-class Thing2B
+class Thing2Bb
   let _s: String
 
   new create(s: String) =>
